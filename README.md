@@ -5,7 +5,11 @@ The host computer then performs segmentation to handle continuous handwriting, f
 Experimental results show our proposed system to achieve good accuracy and reasonable latency for interactive use.
 	
 ## Pre-installation
+* Environment: [Ubuntu16.04](http://releases.ubuntu.com/16.04/)
+
 * [Mongodb](https://docs.mongodb.com/manual/administration/install-community/)
+
+* [bluepy](https://github.com/IanHarvey/bluepy)
 
 * Install_packages.sh
 	* This script has all packages that we needed.
