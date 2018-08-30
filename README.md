@@ -17,7 +17,7 @@ Experimental results show our proposed system to achieve good accuracy and reaso
 ## System overview
 ![Alt Image Text](https://epl.tw/wp-content/uploads/2018/08/System-overview.png "System Overview")
 
-There are four steps to implement the system:
+There are five steps to implement the system:
 
 1. Collected raw data from sensor and stored with json type.
 	* train.py
