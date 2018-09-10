@@ -25,7 +25,7 @@ There are five steps to implement the system:
 2. Preprocess (low-pass fillter and segmentation) and upload to mongodb.
 	* preprocessing.py
 	
-3. Get data from mongobd and stored to train.dat .
+3. Get data from mongodb and stored to train.dat .
 	* test.py
 	
 4. Using train.data to train LSTM model. 
